@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../E-Diaristas-django/.idea/E-Diaristas-django.iml" filepath="$PROJECT_DIR$/../E-Diaristas-django/.idea/E-Diaristas-django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ediaristas.iml" filepath="$PROJECT_DIR$/.idea/ediaristas.iml" />
+    </modules>
+  </component>
+</project>
