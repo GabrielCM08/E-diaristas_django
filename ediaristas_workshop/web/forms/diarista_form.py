@@ -26,7 +26,6 @@ class DiaristaForm(forms.ModelForm):
         cidade_api = json.loads(response.content)
         if 'erro' in cidade_api:
             raise forms.ValidationError("o CEP informado não foi encontrado")
-
         return cep.replace("-", "")
 
     def clean_telefone(self):
