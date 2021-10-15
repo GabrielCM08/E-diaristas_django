@@ -1,16 +1,12 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <title>Título da página</title>
-    <meta charset="utf-8">
-  </head>
-  <body>
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block conteudo %}
+
   <form method="post" enctype="multipart/form-data">
     {% csrf_token %}
-    {{form_diarista.as_p}}
+    {{form_diarista|crispy}}
 
-    <button type="submit">Cadastrar</button>
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
   </form>
 
-  </body>
-</html>
+{% endblock conteudo %}
