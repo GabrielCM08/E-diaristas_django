@@ -6,15 +6,28 @@ Projeto criação de app aplicando conhecimento de estudos
 
 ### Lista de cadastros
 
-![image](https://user-images.githubusercontent.com/75757398/137413997-a7fd13b5-0737-4d36-8039-8d4f50787f6c.png)
-
+![image](https://user-images.githubusercontent.com/75757398/137544734-a8825938-1cca-49f2-a035-3584c4aedb83.png)
 ### Cadastro
 
-![image](https://user-images.githubusercontent.com/75757398/137414135-10a54ad0-f034-43b0-8694-9e11573d085a.png)
+![image](https://user-images.githubusercontent.com/75757398/137544329-2cee033f-c064-4918-887e-290eed2b7eae.png)
 
 
 ### Edição de cadastro
-![image](https://user-images.githubusercontent.com/75757398/137414059-e192833f-6790-4e2e-aa2b-add22ea48645.png)
+
+![image](https://user-images.githubusercontent.com/75757398/137544289-d6dd115b-b8de-48ad-bc3d-f7df8a4eca7f.png)
+
+
+### Response API
+
+![image](https://user-images.githubusercontent.com/75757398/137544503-c673430e-d2ca-4b50-821f-8c20c308b458.png)
+
+### DB sqlite
+
+![image](https://user-images.githubusercontent.com/75757398/137544654-34f58742-2f14-4324-a3f8-82c96ba909b3.png)
+
+### Usando API
+
+![image](https://user-images.githubusercontent.com/75757398/137544849-ff43a6cd-4093-421a-8d3b-e0c5a4f10ae0.png)
 
 
 
